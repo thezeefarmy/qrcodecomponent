@@ -7,7 +7,7 @@
 body {
     font-family: Outfit, sans-serif;
     width: 1000px;
-    max-height: 800px;
+    max-height: 600px;
     background-color: hsl(0, 0%, 100%);
     padding:40px;
   }
