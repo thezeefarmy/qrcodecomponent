@@ -7,7 +7,6 @@
 body {
     font-family: Outfit, sans-serif;
     width: 1000px;
-    height: 800px;
     background-color: hsl(0, 0%, 100%);
     padding:15px;
   }
