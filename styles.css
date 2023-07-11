@@ -1,5 +1,5 @@
 * {
-    margin: auto;
+    margin: 0px;
     padding: 0px;
     box-sizing: border-box;
   }
@@ -10,6 +10,7 @@ body {
     max-height: 100vh;
     background-color: hsl(0, 0%, 100%);
     padding:15px;
+    margin: 0px auto;
   }
   
   #container {
